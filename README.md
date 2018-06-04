@@ -57,7 +57,7 @@ Converting custom format to YOLOv2:
 
 (1) Save all the images in labels/images/
 
-(2) Save all the label files generated in the first step in labels/input/
+(2) Save all the label files generated in the first part in labels/input/
 
 (3) Run custom_to_yolo.py
 
