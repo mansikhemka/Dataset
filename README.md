@@ -13,19 +13,29 @@ Steps to generate labels:
 (3) Save all the images in BBox-Label-Tool-Multi-Class/Images/001/
 
 (4) Run main.py in BBox-Label-Tool-Multi-Class 
+
     On terminal : python main.py
 
 (5) An interface appears. Type 001 in the text field on top and press Load. The first images appears.
 
 (6) Before labeling bbox, choose the 'Current Class' in the Combobox and make sure you click 'ComfirmClass' button. I have given an index to each of our class as follows:
+
 0: Bus
+
 1: Private car
+
 2: Auto-rickshaw
+
 3: Two-wheeler
+
 4: truck
+
 5: Pedestrian
+
 6: Bicycle
+
 7: Taxi
+
 
 (7)To create a new bounding box, left-click to select the first vertex. Moving the mouse to draw a rectangle, and left-click again to select the second vertex.
 
