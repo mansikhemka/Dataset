@@ -22,7 +22,7 @@ Steps to generate labels:
 
  Run main.py in BBox-Label-Tool-Multi-Class 
 
-    On terminal : python main.py
+    On terminal : python3 main.py
 
 (5) An interface appears. Type 001 in the text field on top and press Load. The first images appears.
 
