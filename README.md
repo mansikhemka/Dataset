@@ -12,7 +12,15 @@ Steps to generate labels:
 
 (3) Save all the images in BBox-Label-Tool-Multi-Class/Images/001/
 
-(4) Run main.py in BBox-Label-Tool-Multi-Class 
+(4) Install the following dependencies to run the script:
+
+    For Python3 : tkinter, PIL 
+
+    On Ubuntu run : sudo apt-get install python3-tk
+    
+                    sudo python3 -m pip install pillow
+
+ Run main.py in BBox-Label-Tool-Multi-Class 
 
     On terminal : python main.py
 
